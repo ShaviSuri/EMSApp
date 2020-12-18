@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Shavi
+Build-Jdk: 14.0.2
+Implementation-Title: EMSApp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.mphasis.sbw
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/EMSApp
+Created-By: Maven Integration for Eclipse
+
